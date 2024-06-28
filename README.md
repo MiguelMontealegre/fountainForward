@@ -1,2 +1,6 @@
 # fountainForward
- crud
+
+
+# Install
+
+npm install
